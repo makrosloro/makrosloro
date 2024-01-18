@@ -15,6 +15,12 @@
 
 ## <picture><img src = "https://github.com/makrosloro/makrosloro/raw/main/img/github_stats.gif" width = 25px></picture> GitHub Stats
 
+<p align="center">
+<a href="https://github.com/makrosloro">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=makrosloro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=makrosloro&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <!-- 
