@@ -11,6 +11,50 @@
 
 
 ## <picture><img src = "https://github.com/makrosloro/makrosloro/raw/main/img/skills.gif" width = 25px></picture> Skills
+### Programming languages:
+&emsp;
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+
+### Frontend development:
+&emsp;
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
+![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+### Misc tools:
+&emsp;
+![IntelliJ Idea](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
+### Services & Frameworks:
+&emsp;
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
+![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
+
+
+### Databases:
+&emsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+### SRE & DevOps:
+&emsp;
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 
 ## <picture><img src = "https://github.com/makrosloro/makrosloro/raw/main/img/github_stats.gif" width = 25px></picture> GitHub Stats
