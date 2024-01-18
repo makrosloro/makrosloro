@@ -54,7 +54,6 @@
 &emsp;
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 
 ## <picture><img src = "https://github.com/makrosloro/makrosloro/raw/main/img/github_stats.gif" width = 25px></picture> GitHub Stats
