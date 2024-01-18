@@ -1,15 +1,22 @@
-
+<div align="center">
+<h1 align="center">
+    Hi there, you can call me Makros 👋
+</h1>
+</div>
 ![Github Banner Marcos Lorente](img/marcos_lorente_github_banner.png)
 
-<h2 style="text-align:center" >Hi there, you can call me Makros 👋</h2>
+<h2 style="text-align:center"></h2>
 
 ## <picture><img src = "https://github.com/makrosloro/makrosloro/raw/main/img/about_me.gif" width = 25px></picture> About me
+
 <hr>
 
 ## <picture><img src = "https://github.com/makrosloro/makrosloro/raw/main/img/skills.gif" width = 25px></picture> Skills
+
 <hr>
 
 ## <picture><img src = "https://github.com/makrosloro/makrosloro/raw/main/img/github_stats.gif" width = 25px></picture> GitHub Stats
+
 <hr>
 
 
