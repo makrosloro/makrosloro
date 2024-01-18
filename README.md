@@ -1,6 +1,9 @@
-### Hi there 👋
 
-<!--
+![Github Banner Marcos Lorente](img/marcos_lorente_github_banner.png)
+
+### Hi there,  👋
+
+<!-- 
 **makrosloro/makrosloro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
