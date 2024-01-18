@@ -1,7 +1,8 @@
 
 ![Github Banner Marcos Lorente](img/marcos_lorente_github_banner.png)
 
-### Hi there,  👋
+### <p style="text-align: center"> Hi there, you can call me Makros 👋</p>
+
 
 <!-- 
 **makrosloro/makrosloro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
