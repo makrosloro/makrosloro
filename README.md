@@ -1,7 +1,7 @@
 
 ![Github Banner Marcos Lorente](img/marcos_lorente_github_banner.png)
 
-## <p style="text-align: center"> Hi there, you can call me Makros 👋</p>
+<h2 style="text-align:center" >Hi there, you can call me Makros 👋</h2>
 
 ## <picture><img src = "https://github.com/makrosloro/makrosloro/raw/main/img/about_me.gif" width = 25px></picture> About me
 <hr>
