@@ -3,7 +3,7 @@
     Hi there, you can call me Makros 👋
 </h1>
 </div>
-![Github Banner Marcos Lorente](img/marcos_lorente_github_banner.png)
+<img src="https://github.com/makrosloro/makrosloro/raw/main/img/marcos_lorente_github_banner.png">
 
 <h2 style="text-align:center"></h2>
 
