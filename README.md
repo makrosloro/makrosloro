@@ -3,7 +3,7 @@
     Hi there, you can call me Makros 👋
 </h1>
 </div>
-<img src="https://github.com/makrosloro/makrosloro/raw/main/img/marcos_lorente_github_banner.png">
+<img src="https://github.com/makrosloro/makrosloro/raw/main/img/marcos_lorente_github_banner_v2.png">
 
 <h2 style="text-align:center"></h2>
 
