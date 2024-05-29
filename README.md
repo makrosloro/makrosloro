@@ -10,6 +10,13 @@
 ## <picture><img src = "https://github.com/makrosloro/makrosloro/raw/main/img/about_me.gif" width = 25px></picture> About me
 
 
+👋 Hi there! 
+
+I'm a passionate Backend Developer specializing in PHP, with a focus on developing robust APIs and seamless third-party integrations. My expertise lies in implementing Hexagonal Architecture and Domain-Driven Design to create scalable and maintainable systems. 
+
+I thrive on being involved in projects from the ground up, from selecting the right technologies to data modeling and persistence strategies. Let's build something amazing together!
+
+
 ## <picture><img src = "https://github.com/makrosloro/makrosloro/raw/main/img/skills.gif" width = 25px></picture> Skills
 ### Programming languages:
 &emsp;
